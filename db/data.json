@@ -1,0 +1,23 @@
+{
+  "POST": [],
+  "POSTFILE": [
+    {
+      "id": "5173",
+      "content": "hello world"
+    },
+    {
+      "id": "5174",
+      "content": "My name is Kien"
+    }
+  ],
+  "GET": [
+    {
+      "id": "5173",
+      "content": [1, 1, 1, 1, 1]
+    },
+    {
+      "id": "5174",
+      "content": "My name is Kien"
+    }
+  ]
+}
